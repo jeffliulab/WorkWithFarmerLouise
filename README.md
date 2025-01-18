@@ -5,6 +5,8 @@ This is an ongoing project aimed to build a virtual environment and an intellige
 The framework:
 * Intelligent Agent (Louise):
 * Virtual Environment
+* LLM API
+* Memory system for Louise
 
 ## Demo
 
