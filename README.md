@@ -11,12 +11,9 @@ The framework:
 ## Why I do this project?
 
 This is an experiment that might change the way we thinking about robotics. 
-
-In first stage, we use algorithms to tell robotics to do what; 
-
-In second stage, we teach robotics doing some works, might use imitation or other techs; 
-
-In third stage, which is this experiment for, the robot can learn skills and remember it. This is an application of LLMs actually. Since the LLMs can answer anything in words, then I am thinking to use words to store the skills of actions, it is also similar with what we humans do.
+* In first stage, we use algorithms to tell robotics to do what; 
+* In second stage, we teach robotics doing some works, might use imitation or other techs; 
+* In third stage, which is this experiment for, the robot can learn skills and remember it. This is an application of LLMs actually. Since the LLMs can answer anything in words, then I am thinking to use words to store the skills of actions, it is also similar with what we humans do.
 
 ## The Learning System of Louise
 
